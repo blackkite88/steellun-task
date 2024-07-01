@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/steellun-task/static/css/main.ba362b14.css",
+    "main.js": "/steellun-task/static/js/main.d49bec92.js",
+    "static/media/header-bg.png": "/steellun-task/static/media/header-bg.442eb2e850c65e3e06af.png",
+    "static/media/s3.png": "/steellun-task/static/media/s3.8169aed6ad747e9c05bb.png",
+    "static/media/s2.png": "/steellun-task/static/media/s2.1c4fb19a64b04c102d67.png",
+    "static/media/p3.png": "/steellun-task/static/media/p3.55e16e43b3b5f904d3ad.png",
+    "static/media/s1.png": "/steellun-task/static/media/s1.cfb6183b8572cb4e328c.png",
+    "static/media/p1.png": "/steellun-task/static/media/p1.3c78dd0a7c763e5e503d.png",
+    "static/media/p2.png": "/steellun-task/static/media/p2.2373e2685d3e6970385c.png",
+    "index.html": "/steellun-task/index.html",
+    "main.ba362b14.css.map": "/steellun-task/static/css/main.ba362b14.css.map",
+    "main.d49bec92.js.map": "/steellun-task/static/js/main.d49bec92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba362b14.css",
+    "static/js/main.d49bec92.js"
+  ]
+}
